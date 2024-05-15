@@ -1,10 +1,9 @@
-
-
-* [ ] This is sketchtheme's space, an artist on his journey of becoming a developer.
+This is sketchtheme's space, an artist on his journey of becoming a developer. Here, you'll find my adventures in the world of coding, design, and creativity.
 
 ## About
 
 - Senior student at Inha University in Tashkent.
+- Artist | ✨ Software Developer
 - Big Data and Cyber Security enthusiast.
 
 ## Languages
