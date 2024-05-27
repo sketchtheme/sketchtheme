@@ -1,17 +1,17 @@
-This is sketchtheme's space, an artist on his journey of becoming a developer. Here, you'll find my adventures in the world of coding, design, and creativity.
+This is sketchtheme's space, an artist on his journey to becoming a developer. Here, you'll find my adventures in the world of coding, design, and creativity.
 
 ## About
 
 - Senior student at Inha University in Tashkent.
-- Artist | ✨ Software Developer
+- Artist | ✨ Software Developer & Network Engineer
 - Big Data and Cyber Security enthusiast.
 
 ## Languages
 
 - Python
-- C
 - PosgreSQL & MySQL
 - HTML
+- C
 
 ## Projects
 
@@ -23,3 +23,4 @@ Here is my currect project:
 
 - Instagram: https://www.instagram.com/malik.shogun/
 - LinkedIn: https://www.linkedin.com/in/sketchtheme/
+- Leetcode: https://leetcode.com/u/sketchtheme/
