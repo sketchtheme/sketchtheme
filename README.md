@@ -13,10 +13,10 @@ This is sketchtheme's space, an Artist on his journey to becoming an Engineer. H
 
 ## Projects
 
-Here is my currect project:
+Currect projects:
 
-- [ChemPy](https://github.com/sketchtheme/chempy) - A project being developed to reduce the time spend to learning and understanding the behind scenes of how Chemical Reactions happen.
-- [Capsule](https://github.com/sketchtheme/capsule) - A project being developed to reduce the time spend to mapping network topology 
+- [ChemPy](https://github.com/sketchtheme/chempy) - A project being developed to reduce the time spend to learning and understanding the behind scenes of how Chemical Reactions happen. (Paused)
+- [Capsule](https://github.com/sketchtheme/capsule) - A project being developed to reduce the time spend to mapping network topology. (Paused)
 
 ## Contacts
 
