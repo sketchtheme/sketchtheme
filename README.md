@@ -1,4 +1,4 @@
-This is sketchtheme's space, an Artist on his journey to becoming an Engineer. Here, you'll find my adventures in the world of coding, networking, design, and creativity.
+An Artist on his journey to becoming an Engineer. Here, you'll find my adventures in the world of coding, networking, design, and creativity.
 
 ## About
 
