@@ -5,7 +5,7 @@ An Artist on his journey to becoming an Engineer. Here, you'll find my adventure
 - Artist (at heart) | Software Developer & Network Engineer
 - Big Data and Cyber Security enthusiast.
 
-## Languages
+## Skills
 
 - Python/C
 - PosgreSQL
@@ -23,3 +23,4 @@ Currect projects:
 - Instagram (temporarily down): https://www.instagram.com/malik.shogun/
 - LinkedIn: https://www.linkedin.com/in/sketchtheme/
 - Leetcode: https://leetcode.com/u/sketchtheme/
+- Direct: malik.kudayarovich@gmail.com
